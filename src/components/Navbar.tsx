@@ -14,7 +14,7 @@ export const Navbar = () => {
     <nav className="w-full bg-white shadow-sm">
       <div className="container mx-auto px-4 py-3 flex justify-between items-center">
         <Link to="/" className="text-2xl font-bold text-primary">
-          FashionAI
+          LamuseAI
         </Link>
         <div className="flex gap-6 items-center">
           <Link
